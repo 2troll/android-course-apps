@@ -1,0 +1,11 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string name="app_name">Basic UI</string>
+    <string name="status_married">Married</string>
+    <string name="status_single">Single</string>
+    <string name="status_in_relationship">In a RelationShip</string>
+    <string name="watched_harry">You have watched Harry Potter, Yay</string>
+    <string name="not_watched_harry">You NEED to watch Harry Potter</string>
+    <string name="watched_matrix">You have watched Matrix</string>
+    <string name="not_watched_matrix">You NEED to watch Matrix</string>
+</resources>

@@ -1,0 +1,20 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string name="app_name">LastProject</string>
+    <string name="wrong_login">The Username Or The Password Is Wrong .</string>
+    <string name="fill_all_values">Please Fill All The Values !</string>
+    <string name="register_success">Register Success</string>
+    <string name="profile_updated">All The Information Has Been Updated :)</string>
+    <string name="password_keep_hint">New password (empty = keep current)</string>
+    <string name="pick_time_first">Please Pick Time</string>
+    <string name="pick_date_first">Please Pick Date</string>
+    <string name="thanks_for_ordering">Thanks For Ordering</string>
+    <string name="order_subject">Placing Order</string>
+    <string name="order_message">Thank You For Ordering From Our Shop \n Your Order Will Be Ready In %1$s \n At %2$s</string>
+    <string name="sms_sent">SMS Has Been Sent</string>
+    <string name="fill_message">Fill Up The EditText</string>
+    <string name="permission_needed">Permission is needed for this action</string>
+    <string name="no_app_found">No app found to open this</string>
+    <string name="price_amount">%1$d ILS</string>
+    <string name="pieces_amount">%1$d PIC</string>
+</resources>

@@ -1,0 +1,37 @@
+<?xml version="1.0" encoding="utf-8"?>
+<LinearLayout xmlns:android="http://schemas.android.com/apk/res/android"
+    android:gravity="center"
+    android:orientation="vertical"
+    android:background="@drawable/gender_wallpaper"
+    android:layout_width="230sp"
+    android:layout_height="150sp">
+    <TextView
+        android:gravity="center"
+        android:layout_width="match_parent"
+        android:layout_height="30sp"
+        android:layout_marginBottom="15sp"
+        android:hint="@string/are_you_sure"/>
+    <LinearLayout
+        android:layout_width="wrap_content"
+        android:layout_height="wrap_content">
+        <androidx.appcompat.widget.AppCompatButton
+            android:textColor="@color/white"
+            android:id="@+id/yes"
+            android:background="@drawable/btn_custom"
+            android:layout_width="wrap_content"
+            android:layout_height="wrap_content"
+            android:layout_marginTop="7sp"
+            android:text="@string/yes"
+            android:textAllCaps="false"/>
+        <androidx.appcompat.widget.AppCompatButton
+            android:textColor="@color/white"
+            android:id="@+id/no"
+            android:background="@drawable/btn_custom"
+            android:layout_width="wrap_content"
+            android:layout_height="wrap_content"
+            android:layout_marginLeft="30sp"
+            android:layout_marginTop="7sp"
+            android:text="@string/no"
+            android:textAllCaps="false"/>
+    </LinearLayout>
+</LinearLayout>

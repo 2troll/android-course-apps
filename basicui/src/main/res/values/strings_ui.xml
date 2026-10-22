@@ -1,0 +1,9 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string name="harry_potter">Harry Potter</string>
+    <string name="in_a_relationship">In a Relationship</string>
+    <string name="joker">Joker</string>
+    <string name="married">Married</string>
+    <string name="single">Single</string>
+    <string name="the_matrix">The Matrix</string>
+</resources>

@@ -1,0 +1,6 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string name="app_name">AboutPage</string>
+    <string name="sms_default_message">message to send</string>
+    <string name="no_app_found">No app found to open this</string>
+</resources>

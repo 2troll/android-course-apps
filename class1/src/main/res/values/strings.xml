@@ -1,0 +1,7 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string name="app_name">Class1</string>
+    <string name="first_name_result">First Name: %1$s</string>
+    <string name="last_name_result">Last Name: %1$s</string>
+    <string name="email_result">Email: %1$s</string>
+</resources>

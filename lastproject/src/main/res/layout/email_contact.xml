@@ -1,0 +1,33 @@
+<?xml version="1.0" encoding="utf-8"?>
+<LinearLayout xmlns:android="http://schemas.android.com/apk/res/android"
+    android:gravity="center"
+    android:orientation="vertical"
+    android:background="@drawable/gender_wallpaper"
+    android:layout_width="320sp"
+    android:layout_height="240sp">
+    <EditText
+        android:gravity="center"
+        android:id="@+id/aboutSubject"
+        android:layout_width="match_parent"
+        android:layout_height="50sp"
+        android:layout_margin="5sp"
+        android:layout_marginBottom="5sp"
+        android:hint="@string/subject"/>
+    <EditText
+        android:gravity="center"
+        android:id="@+id/aboutMessage"
+        android:layout_width="match_parent"
+        android:layout_height="100sp"
+        android:layout_margin="5sp"
+        android:layout_marginBottom="5sp"
+        android:hint="@string/type_message"/>
+    <androidx.appcompat.widget.AppCompatButton
+        android:textColor="@color/white"
+        android:id="@+id/sendEmailA"
+        android:background="@drawable/btn_custom"
+        android:layout_width="wrap_content"
+        android:layout_height="wrap_content"
+        android:layout_marginTop="7sp"
+        android:text="@string/send_email"
+        android:textAllCaps="false"/>
+</LinearLayout>
